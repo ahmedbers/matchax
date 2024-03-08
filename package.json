@@ -22,7 +22,7 @@
   "homepage": "https://github.com/ahmedbers/matchax#readme",
   "dependencies": {
     "discord-simple-api": "^1.0.3",
-    "cubit":"^1.0.3",
+    "cubitt":"^1.0.3",
     "guessdc":"^1.0.0"
   }
 }
