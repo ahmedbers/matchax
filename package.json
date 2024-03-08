@@ -23,6 +23,6 @@
   "dependencies": {
     "discord-simple-api": "^1.0.3",
     "cubit":"^1.0.3",
-    "guessdc":"^1.0.0",
+    "guessdc":"^1.0.0"
   }
 }
